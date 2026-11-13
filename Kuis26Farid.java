@@ -45,8 +45,8 @@ public class Kuis26Farid {
         System.out.println("=== REKAP HARIAN ===");
         System.out.println("Total pemasukan : Rp " + totalBiaya);
         System.out.println("Rata-rata berat : " + rataBerat + " kg");
-        System.out.println("parkir terlama: "+ terTinggi +"jam");
-        System.out.println("parkir lebih dari 3 jam : " + lebihDari3Kg + "kendaraan");
+        System.out.println("londry berat tertingi: "+ terTinggi +"kg");
+        System.out.println(" londry lebih dari 3 kg : " + lebihDari3Kg + "cucian");
 
     }
 }
