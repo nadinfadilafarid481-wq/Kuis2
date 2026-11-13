@@ -28,7 +28,9 @@ public class Kuis26Farid {
             double rataBerat = totalBerat / n;
             totalBiaya += 0;
             totalBiaya += biaya;
-            totalBerat += berat;  
+            totalBerat += berat; 
+            
+            int 81 = <2
             
             int kg;
             if (kg > terTinggi){  // tugas 2
